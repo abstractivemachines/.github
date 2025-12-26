@@ -4,8 +4,8 @@ We build infrastructure software for distributed systems.
 
 ## Projects
 
-- **[Toska Mesh](https://github.com/abstractivemachines-com/toska-mesh-cs)** - Distributed service mesh and runtime for .NET 8
-- **[ToskaStore](https://github.com/abstractivemachines-com/toska_store)** - Lightweight disk-backed key/value store with HTTP/JSON API
+- **[Toska Mesh](https://github.com/abstractive-machines/toska-mesh-cs)** - Distributed service mesh and runtime for .NET 8
+- **[ToskaStore](https://github.com/abstractive-machines/toska_store)** - Lightweight disk-backed key/value store with HTTP/JSON API
 
 ## Maintainer
 
