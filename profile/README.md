@@ -10,7 +10,7 @@ We build infrastructure software for distributed systems.
 
 ## Maintainer
 
-All projects are maintained by [@nullsync](https://github.com/nullsync).
+All projects are maintained by Jason Vowell ([@nullsync](https://github.com/nullsync)).
 
 ## License
 
