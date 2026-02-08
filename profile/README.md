@@ -7,6 +7,7 @@ We build infrastructure software for distributed systems.
 - **[Toska Mesh](https://github.com/abstractivemachines/toska-mesh-cs)** - Distributed service mesh and runtime for .NET 8
 - **[Toska Dashboard](https://github.com/abstractivemachines/toska-dashboard)** - Dashboard for Toska
 - **[ToskaStore](https://github.com/abstractivemachines/toska_store)** - Lightweight disk-backed key/value store with HTTP/JSON API
+- **[Agentic Flow](https://github.com/abstractivemachines/agentic-flow)** - Agentic workflow orchestration
 
 ## Maintainer
 
