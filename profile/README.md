@@ -2,11 +2,21 @@
 
 We build infrastructure software for distributed systems.
 
-## Projects
+## ToskaMesh
 
-- **[Toska Mesh](https://github.com/abstractivemachines/toska-mesh-cs)** - Distributed service mesh and runtime for .NET 8
-- **[Toska Dashboard](https://github.com/abstractivemachines/toska-dashboard)** - Dashboard for Toska
-- **[ToskaStore](https://github.com/abstractivemachines/toska_store)** - Lightweight disk-backed key/value store with HTTP/JSON API
+A distributed service mesh with a Go control plane and runtime SDKs for Go and C#.
+
+| Repository | Description |
+|---|---|
+| **[toska-mesh](https://github.com/abstractivemachines/toska-mesh)** | Go control plane — Gateway, Discovery, HealthMonitor, Router |
+| **[toska-mesh-cs](https://github.com/abstractivemachines/toska-mesh-cs)** | C# runtime SDK and business services (.NET 10 / Orleans) |
+| **[toska-mesh-go](https://github.com/abstractivemachines/toska-mesh-go)** | Go runtime SDK for services joining the mesh |
+| **[toska-mesh-proto](https://github.com/abstractivemachines/toska-mesh-proto)** | Shared protobuf definitions (single source of truth) |
+| **[toska-dashboard](https://github.com/abstractivemachines/toska-dashboard)** | Vite + React observability dashboard |
+| **[toska_store](https://github.com/abstractivemachines/toska_store)** | Elixir HTTP/JSON key-value store |
+
+## Other Projects
+
 - **[Agentic Flow](https://github.com/abstractivemachines/agentic-flow)** - Agentic workflow orchestration
 
 ## Research Projects
