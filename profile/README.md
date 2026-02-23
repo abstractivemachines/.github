@@ -9,6 +9,10 @@ We build infrastructure software for distributed systems.
 - **[ToskaStore](https://github.com/abstractivemachines/toska_store)** - Lightweight disk-backed key/value store with HTTP/JSON API
 - **[Agentic Flow](https://github.com/abstractivemachines/agentic-flow)** - Agentic workflow orchestration
 
+## Research Projects
+
+- **[Aionix](https://github.com/abstractivemachines/aionix)** - GNOME Shell extension for monitoring AI coding agents — Claude Code, Aider, Copilot, Cursor, and more
+
 ## Maintainer
 
 All projects are maintained by Jason Vowell ([@nullsync](https://github.com/nullsync)).
